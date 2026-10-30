@@ -1,0 +1,6 @@
+{
+  "name": "VANTA",
+  "description": "Premium Local Streaming Platform for movies, TV series, and anime with offline playback and cinematic library management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
